@@ -65,44 +65,35 @@ A continuación, se presentan los módulos principales del sistema. *(Nota: Toda
 A continuación, se presentan los módulos principales del sistema. *(Nota: Todas las métricas, nombres y perfiles mostrados son datos de simulación controlada).*
 
 ### Tabla de Gestión de Expedientes
-<img width="1918" height="911" alt="eXPEDIENTES" src="https://github.com/user-attachments/assets/8f1d8e67-63b6-455a-a988-8704e63c86bd" />
-
+<img width="1918" height="911" alt="eXPEDIENTES" src="https://github.com/user-attachments/assets/31f65f10-5b1d-4ba1-b675-affecd591371" />
 
 
 ### Detalle del Expediente y Perfil del Paciente
 <img width="1912" height="911" alt="EXPEDIENTE ADENTRO" src="https://github.com/user-attachments/assets/00f4c3d5-46e7-487e-97b0-f18a09df6741" />
 
 
-
-
 ### Registro de Nueva Cita y Consulta
 <img width="1917" height="911" alt="Nueva cita" src="https://github.com/user-attachments/assets/bfbdc565-3ef0-4dd9-b6d9-78dff080e87b" />
-
 
 
 ### Catálogo de Servicios Clínicos
 <img width="1916" height="913" alt="catalogo de servicio" src="https://github.com/user-attachments/assets/2d3f8ad7-9299-46d5-9f72-7e7982aeb8a0" />
 
 
-
 ### Gestión de Usuarios, Accesos y Licencias
 <img width="1917" height="908" alt="Gestion de usuarios y nombre de clinica contratada con licencia" src="https://github.com/user-attachments/assets/8504a67e-35a4-495a-b11a-ad038104a3a2" />
-
 
 
 ### Control de Inventario Clínico
 <img width="1917" height="910" alt="Inventario" src="https://github.com/user-attachments/assets/af4c5eaa-9a31-4640-b532-0970d46a9824" />
 
 
-
 ### Dashboard Clínico y Panel de Control
 <img width="1916" height="908" alt="DASH" src="https://github.com/user-attachments/assets/3bb1f8ca-9b5a-4d80-878c-b8521fe3a742" />
 
 
-
 ### Cumplimiento Normativo (Módulo COFEPRIS)
 <img width="1915" height="910" alt="COFEPRIS" src="https://github.com/user-attachments/assets/a0a9d9dc-2f22-4ca1-b05e-ffe297c699e1" />
-
 
 
 ### Bitácora de Auditoría y Trazabilidad (Logs)
