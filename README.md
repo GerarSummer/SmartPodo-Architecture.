@@ -70,7 +70,8 @@ A continuación, se presentan los módulos principales del sistema. *(Nota: Toda
 
 
 ### Detalle del Expediente y Perfil del Paciente
-<img width="1912" height="911" alt="EXPEDIENTE ADENTRO" src="https://github.com/user-attachments/assets/497412e3-68e7-4e93-9253-b17392aaaac6" />
+<img width="1912" height="911" alt="EXPEDIENTE ADENTRO" src="https://github.com/user-attachments/assets/00f4c3d5-46e7-487e-97b0-f18a09df6741" />
+
 
 
 
