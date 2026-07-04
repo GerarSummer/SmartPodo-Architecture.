@@ -65,7 +65,7 @@ A continuación, se presentan los módulos principales del sistema. *(Nota: Toda
 A continuación, se presentan los módulos principales del sistema. *(Nota: Todas las métricas, nombres y perfiles mostrados son datos de simulación controlada).*
 
 ### Tabla de Gestión de Expedientes
-<img width="1918" height="911" alt="eXPEDIENTES" src="https://github.com/user-attachments/assets/31f65f10-5b1d-4ba1-b675-affecd591371" />
+<img width="1918" height="911" alt="eXPEDIENTES" src="https://github.com/user-attachments/assets/74a21dd1-47c9-4b3d-9f05-5458bf388423" />
 
 
 ### Detalle del Expediente y Perfil del Paciente
