@@ -65,39 +65,48 @@ A continuación, se presentan los módulos principales del sistema. *(Nota: Toda
 A continuación, se presentan los módulos principales del sistema. *(Nota: Todas las métricas, nombres y perfiles mostrados son datos de simulación controlada).*
 
 ### Tabla de Gestión de Expedientes
-<img width="2219" height="911" alt="eXPEDIENTES" src="https://github.com/user-attachments/assets/4399cbaa-c32f-43b5-8048-0105d482dba1" />
+<img width="1918" height="911" alt="eXPEDIENTES" src="https://github.com/user-attachments/assets/8f1d8e67-63b6-455a-a988-8704e63c86bd" />
+
 
 
 ### Detalle del Expediente y Perfil del Paciente
-<img width="2412" height="911" alt="EXPEDIENTE ADENTRO" src="https://github.com/user-attachments/assets/d43ee894-4713-4605-b74d-cf73a5e95e36" />
+<img width="1912" height="911" alt="EXPEDIENTE ADENTRO" src="https://github.com/user-attachments/assets/497412e3-68e7-4e93-9253-b17392aaaac6" />
+
 
 
 ### Registro de Nueva Cita y Consulta
-<img width="2354" height="911" alt="Nueva cita" src="https://github.com/user-attachments/assets/3c3fff08-c777-4387-9288-43710c6bf258" />
+<img width="1917" height="911" alt="Nueva cita" src="https://github.com/user-attachments/assets/bfbdc565-3ef0-4dd9-b6d9-78dff080e87b" />
+
 
 
 ### Catálogo de Servicios Clínicos
-<img width="2118" height="913" alt="catalogo de servicio" src="https://github.com/user-attachments/assets/348fada8-33b7-4053-a503-f11140e1cc62" />
+<img width="1916" height="913" alt="catalogo de servicio" src="https://github.com/user-attachments/assets/2d3f8ad7-9299-46d5-9f72-7e7982aeb8a0" />
+
 
 
 ### Gestión de Usuarios, Accesos y Licencias
-<img width="2045" height="908" alt="Gestion de usuarios y nombre de clinica contratada con licencia" src="https://github.com/user-attachments/assets/d032c538-fddd-4247-8c11-240cdaf5350b" />
+<img width="1917" height="908" alt="Gestion de usuarios y nombre de clinica contratada con licencia" src="https://github.com/user-attachments/assets/8504a67e-35a4-495a-b11a-ad038104a3a2" />
+
 
 
 ### Control de Inventario Clínico
-<img width="2219" height="910" alt="Inventario" src="https://github.com/user-attachments/assets/d20a613a-7173-4d4c-bb53-c8542a8200f2" />
+<img width="1917" height="910" alt="Inventario" src="https://github.com/user-attachments/assets/af4c5eaa-9a31-4640-b532-0970d46a9824" />
+
 
 
 ### Dashboard Clínico y Panel de Control
-<img width="2528" height="908" alt="DASH" src="https://github.com/user-attachments/assets/f8becd34-d604-4ffc-a681-9a21e8acc6cd" />
+<img width="1916" height="908" alt="DASH" src="https://github.com/user-attachments/assets/3bb1f8ca-9b5a-4d80-878c-b8521fe3a742" />
+
 
 
 ### Cumplimiento Normativo (Módulo COFEPRIS)
-<img width="2253" height="910" alt="COFEPRIS" src="https://github.com/user-attachments/assets/890e773a-241b-4712-bb79-ca90d3e895fe" />
+<img width="1915" height="910" alt="COFEPRIS" src="https://github.com/user-attachments/assets/a0a9d9dc-2f22-4ca1-b05e-ffe297c699e1" />
+
 
 
 ### Bitácora de Auditoría y Trazabilidad (Logs)
-<img width="2153" height="910" alt="bitacora" src="https://github.com/user-attachments/assets/e9666f5c-caa6-4da7-8022-7c63d5f423dd" />
+<img width="1920" height="910" alt="bitacora" src="https://github.com/user-attachments/assets/67a7171f-6d2c-475c-8e74-134db95aac77" />
+
 
 
 ---
