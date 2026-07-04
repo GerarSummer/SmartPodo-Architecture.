@@ -69,7 +69,7 @@ A continuación, se presentan los módulos principales del sistema. *(Nota: Toda
 
 
 ### Detalle del Expediente y Perfil del Paciente
-<img width="1912" height="911" alt="EXPEDIENTE ADENTRO" src="https://github.com/user-attachments/assets/00f4c3d5-46e7-487e-97b0-f18a09df6741" />
+<img width="1912" height="911" alt="EXPEDIENTE ADENTRO" src="https://github.com/user-attachments/assets/3ca13fb5-0ea3-4e22-8b5d-dc247cd75116" />
 
 
 ### Registro de Nueva Cita y Consulta
