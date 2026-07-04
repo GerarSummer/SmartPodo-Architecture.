@@ -2,7 +2,7 @@
 
 ## 1. Título del Proyecto y Descripción High-Level
 
-**SmartPodo** es un sistema integral SaaS (Software as a Service) diseñado como proyecto de tesis de ingeniería para revolucionar la administración clínica y el control de expedientes médicos. La plataforma digitaliza y asegura el ciclo de vida del paciente, resolviendo la fragmentación de historiales clínicos y optimizando el flujo de trabajo del personal médico mediante automatización con Inteligencia Artificial.
+**SmartPodo** es un sistema integral SaaS (Software as a Service) diseñado para revolucionar la administración clínica y el control de expedientes médicos. La plataforma digitaliza y asegura el ciclo de vida del paciente, resolviendo la fragmentación de historiales clínicos y optimizando el flujo de trabajo del personal médico mediante automatización con Inteligencia Artificial.
 
 Arquitectónicamente, el sistema opera bajo un modelo robusto que prioriza la confidencialidad, integridad y disponibilidad (Tríada CIA) de la información médica, utilizando una infraestructura sin servidor (Serverless) acoplada a un backend reactivo en tiempo real y motores de IA generativa para el soporte a la toma de decisiones clínicas.
 
@@ -58,48 +58,34 @@ El sistema implementa una arquitectura orientada a servicios, optimizada para en
 
 ## 6. Galería de Interfaz y Capturas de Pantalla
 
-A continuación, se presentan los módulos principales del sistema. *(Nota: Todas las métricas y perfiles mostrados son datos de simulación).*
-
-## 6. Galería de Interfaz y Capturas de Pantalla
-
 A continuación, se presentan los módulos principales del sistema. *(Nota: Todas las métricas, nombres y perfiles mostrados son datos de simulación controlada).*
 
 ### Tabla de Gestión de Expedientes
 <img width="1918" height="911" alt="eXPEDIENTES" src="https://github.com/user-attachments/assets/74a21dd1-47c9-4b3d-9f05-5458bf388423" />
 
-
 ### Detalle del Expediente y Perfil del Paciente
 <img width="1912" height="911" alt="EXPEDIENTE ADENTRO" src="https://github.com/user-attachments/assets/3ca13fb5-0ea3-4e22-8b5d-dc247cd75116" />
-
 
 ### Registro de Nueva Cita y Consulta
 <img width="1917" height="911" alt="Nueva cita" src="https://github.com/user-attachments/assets/bfbdc565-3ef0-4dd9-b6d9-78dff080e87b" />
 
-
 ### Catálogo de Servicios Clínicos
 <img width="1916" height="913" alt="catalogo de servicio" src="https://github.com/user-attachments/assets/2d3f8ad7-9299-46d5-9f72-7e7982aeb8a0" />
-
 
 ### Gestión de Usuarios, Accesos y Licencias
 <img width="1917" height="908" alt="Gestion de usuarios y nombre de clinica contratada con licencia" src="https://github.com/user-attachments/assets/8504a67e-35a4-495a-b11a-ad038104a3a2" />
 
-
 ### Control de Inventario Clínico
 <img width="1917" height="910" alt="Inventario" src="https://github.com/user-attachments/assets/af4c5eaa-9a31-4640-b532-0970d46a9824" />
-
 
 ### Dashboard Clínico y Panel de Control
 <img width="1916" height="908" alt="DASH" src="https://github.com/user-attachments/assets/3bb1f8ca-9b5a-4d80-878c-b8521fe3a742" />
 
-
 ### Cumplimiento Normativo (Módulo COFEPRIS)
 <img width="1915" height="910" alt="COFEPRIS" src="https://github.com/user-attachments/assets/a0a9d9dc-2f22-4ca1-b05e-ffe297c699e1" />
-
 
 ### Bitácora de Auditoría y Trazabilidad (Logs)
 <img width="1920" height="910" alt="bitacora" src="https://github.com/user-attachments/assets/67a7171f-6d2c-475c-8e74-134db95aac77" />
 
-
-
 ---
-*Diseño, desarrollo y arquitectura por Gerardo Gabriel Verano Martínez como proyecto de tesis en Ingeniería en Sistemas Computacionales.*
+*Diseño, desarrollo y arquitectura de software por Gerardo Gabriel Verano Martínez.*
